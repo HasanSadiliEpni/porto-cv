@@ -7,7 +7,7 @@ export default function Hero() {
       {/* Foto profil */}
       <div className="w-32 h-32 md:w-40 md:h-40 relative mb-6">
         <Image
-          src="/profile.jpg"
+          src="/profile.JPG"
           alt="Foto Profil"
           layout="fill"
           objectFit="cover"
