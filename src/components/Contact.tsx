@@ -1,7 +1,7 @@
 export default function Contact() {
   return (
     <section id="contact" className="py-12 px-4 text-center bg-black text-white">
-      <h2 className="text-3xl font-bold mb-6">Let's Connect</h2>
+      <h2 className="text-3xl font-bold mb-6">Lets Connect</h2>
       <p className="text-gray-300 mb-4">Tertarik bekerja sama atau ingin tahu lebih lanjut? Kirimkan pesan ke:</p>
       <p className="text-xl font-semibold break-words">youremail@example.com</p>
 
